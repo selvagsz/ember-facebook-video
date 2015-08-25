@@ -1,6 +1,13 @@
-# Ember-facebook-video
+# < facebook-video />
 
-This README outlines the details of collaborating on this Ember addon.
+An ember-cli component to embed facebook videos. Please note that the video must be Public. Check out [Facebook developer docs](https://developers.facebook.com/docs/plugins/embedded-video-player#add-code-manually) for more information.
+
+## Usage
+
+```javascript
+  {{facebook-video url="https://www.facebook.com/FacebookDevelopers/videos/10152454700553553/"}}
+```
+
 
 ## Installation
 
