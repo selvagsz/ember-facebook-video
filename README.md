@@ -10,8 +10,10 @@ An ember-cli component to embed facebook videos. Please note that the video must
 
 And append the `<div id="fb-root"></div>` to the `body` tag
 
+[DEMO](http://selvagsz.github.io/#/demos/fbvideo)
 
-## Installation
+
+## Development
 
 * `git clone` this repository
 * `npm install`
